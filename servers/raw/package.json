@@ -17,6 +17,6 @@
     "express": "2.5.x",
     "jade": "0.25.x",
     "nconf": "0.5.x",
-    "request": "2.9.x"
+    "request": "2.88.2"
   }
 }
