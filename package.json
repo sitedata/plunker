@@ -27,7 +27,7 @@
     "request": "2.9.x",
     "connect": "1.x",
     "async": "0.1.x",
-    "mongoose": "3.x",
+    "mongoose": "5.12.3",
     "lru-cache": "1.1.x"
   },
   "bundledDependencies": [
